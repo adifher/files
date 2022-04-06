@@ -1,4 +1,4 @@
-Header;Type;Component code;Type;Coefficient;UOM of Header;UOM of Component;Loos%;No.;Start date;End date
+Code/Header;Type;Component code;Type;Coefficient;UOM of Header;UOM of Component;Loos%;No.;Start date;End date
 2PR--MO100ML;FG;BOTS-MUR100R0-MO;SFG Packs;1;Pc(s);Pc(s);0.056561085972851;10;;
 2PR--MO100ML;FG;CAP-BNG100HG-X;PM;1;Pc(s);Pc(s);0.056561085972851;11;;
 2PR--MO100ML;FG;KB-MOSSTP-291145K150;PM;0.04167;Pc(s);Pc(s);0.056561085972851;12;;
