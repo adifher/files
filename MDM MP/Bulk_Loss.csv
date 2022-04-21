@@ -1,4 +1,4 @@
-date_correction,snfg,fg_name,matter_code,matter,qty_real,qty_theoretical,bulk_loss,reject_retur,sisa_bulk,overfill,loading_unloading_loss,loss,brand,coitem,target,note,line,netto,netto_min,product_status,product_type,timestamp
+date,snfg,fg_name,matter_code,matter,qty_real,qty_theoretical,bulk_loss,reject_retur,sisa_bulk,overfill,loading_unloading_loss,loss,brand,coitem,target,note,line,netto,netto_min,product_status,product_type,timestamp
 2022-04-20,BP-IWEDT-KA/H0005,KAHF INVIGORATING WATERFALL EAU DE TOILETTE 35 ML,L,LIQUID,525.14,590,64.86,0.0,37.88,8.4,18.58,DOWNSTREAM LOSS,KAHF,BP-IWEDT-KA,,,EMP17,0.03556,0.035,EXISTING,LAUNCH,2022-04-21 07:05
 2022-04-20,CON-LBBL01-W/H0004,WARDAH LIGHTENING LIQUID CONCEALER 01 LIGHT 7 G (BLISTER),L,LIQUID,262.58,282,19.42,0,0,6.75,12.67,DOWNSTREAM LOSS,WARDAH,CON-LBBL01-W,,,BLP01,0.00718,0.007,EXISTING,LAUNCH,2022-04-21 07:05
 2022-04-20,CUS-REFC01-W/H0003,WARDAH REFILL EXCLUSIVE FLAWLESS COVER CUSHION 01 LIGHT BEIGE 15 G,L,LIQUID,97.92,109,11.08,0,0,2.48,8.6,DOWNSTREAM LOSS,WARDAH,CUS-REFC01-W,,,CUP01,0.01538,0.015,EXISTING,LAUNCH,2022-04-21 07:05
